@@ -8,3 +8,5 @@ langchain-pinecone
 langchain_community
 langchain_openai
 langchain_experimental
+
+-e . ## this means it is now in editable mode . when you install another package you don't need reinstall again in requirement file
